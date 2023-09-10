@@ -28,7 +28,7 @@ def home():
         "current_day": current_day,
         "utc_time": utc_time,
         "track": "backend",
-        "github_file_url": "https://github.com/username/repo/blob/main/file_name.ext",
+        "github_file_url": "https://github.com/AghahowaJeffrey/hngx_stage1-backend/blob/master/main.py",
         "github_repo_url": "https://github.com/AghahowaJeffrey/hngx_stage1-backend",
         "status_code": 200
     }
